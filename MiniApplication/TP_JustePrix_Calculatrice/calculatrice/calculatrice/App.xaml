@@ -1,0 +1,40 @@
+﻿<Application x:Class="calculatrice.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:calculatrice"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <SolidColorBrush x:Key="ScreenBackground" Color="#707070" />
+        <SolidColorBrush x:Key="ButtonBackground" Color="#b2f5f3" />
+        <SolidColorBrush x:Key="EqualBackground" Color="#f6f6c1" />
+        <SolidColorBrush x:Key="ResetBackground" Color="#fc5f6e"/>
+
+        <SolidColorBrush x:Key="ScreenForeground" Color="black" />
+        <SolidColorBrush x:Key="ButtonForeground" Color="black" />
+
+        <sys:Int32 x:Key="FontSize">30</sys:Int32>
+
+        <Style x:Key="ButtonBaseStyle" TargetType="{x:Type Button}">
+            <Setter Property="FontWeight" Value="Bold" />
+            <Setter Property="FontSize" Value="30" />
+            <Setter Property="Margin" Value="10,10,10,10" />
+            <Setter Property="Foreground" Value="{StaticResource ButtonForeground}" />
+        </Style>
+
+        <Style x:Key="NormalButtonStyle" TargetType="{x:Type Button}"
+               BasedOn="{StaticResource ButtonBaseStyle}">
+            <Setter Property="Background" Value="{StaticResource ButtonBackground}" />
+        </Style>
+
+        <Style x:Key="EqualButtonStyle" TargetType="{x:Type Button}"
+               BasedOn="{StaticResource ButtonBaseStyle}">
+            <Setter Property="Background" Value="{StaticResource EqualBackground}" />
+        </Style>
+
+        <Style x:Key="ResetButtonStyle" TargetType="{x:Type Button}"
+               BasedOn="{StaticResource ButtonBaseStyle}">
+            <Setter Property="Background" Value="{StaticResource ResetBackground}" />
+        </Style>
+    </Application.Resources>
+</Application>
