@@ -1,0 +1,5 @@
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Release\netcoreapp3.1\Juste prix.csprojAssemblyReference.cache
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Release\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Release\netcoreapp3.1\App.g.cs
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Release\netcoreapp3.1\Juste prix_MarkupCompile.cache
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Release\netcoreapp3.1\Juste prix_MarkupCompile.lref

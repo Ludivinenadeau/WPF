@@ -1,0 +1,19 @@
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.csprojAssemblyReference.cache
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix_MarkupCompile.cache
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix_MarkupCompile.lref
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\bin\Debug\netcoreapp3.1\Juste prix.exe
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\bin\Debug\netcoreapp3.1\Juste prix.deps.json
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\bin\Debug\netcoreapp3.1\Juste prix.runtimeconfig.json
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\bin\Debug\netcoreapp3.1\Juste prix.runtimeconfig.dev.json
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\bin\Debug\netcoreapp3.1\Juste prix.dll
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\bin\Debug\netcoreapp3.1\Juste prix.pdb
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.g.resources
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.AssemblyInfoInputs.cache
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.AssemblyInfo.cs
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.csproj.CoreCompileInputs.cache
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.dll
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.pdb
+C:\Users\ludiv\developpement\Projets\WPF\MiniApplication\TP_JustePrix_Calculatrice\Juste prix\Juste prix\obj\Debug\netcoreapp3.1\Juste prix.genruntimeconfig.cache
